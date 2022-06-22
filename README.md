@@ -7,6 +7,10 @@ Data Structures and Algorithms talk held in Moringa School on the 25th June 2022
 Stark industries
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
+### Binary Search Tree
+Natasha Romanoff and Steve Rogers
+https://leetcode.com/problems/validate-binary-search-tree/
+
 
 
 ## Resources Used For this Presentation
