@@ -19,6 +19,10 @@ https://leetcode.com/problems/unique-binary-search-trees/
 Civil war 
 https://leetcode.com/problems/longest-palindromic-substring
 
+### Heaps
+Iron man suits
+https://leetcode.com/problems/top-k-frequent-elements/
+
 ## Resources Used For this Presentation
 
 https://www.geeksforgeeks.org/why-data-structures-and-algorithms-are-important-to-learn/
@@ -30,6 +34,8 @@ https://towardsdatascience.com/space-and-time-complexity-in-computer-algorithms-
 https://www.geeksforgeeks.org/time-complexity-and-space-complexity/
 
 https://www.geeksforgeeks.org/analysis-of-algorithms-set-3asymptotic-notations/
+
+https://www.geeksforgeeks.org/heap-data-structure/
 
 ### String Manipulation
 
