@@ -15,6 +15,10 @@ https://leetcode.com/problems/validate-binary-search-tree/
 The end game
 https://leetcode.com/problems/unique-binary-search-trees/
 
+### Greedy algorithms
+Civil war 
+https://leetcode.com/problems/longest-palindromic-substring
+
 ## Resources Used For this Presentation
 
 https://www.geeksforgeeks.org/why-data-structures-and-algorithms-are-important-to-learn/

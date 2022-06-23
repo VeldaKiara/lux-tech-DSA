@@ -16,10 +16,14 @@ return total
 time -> O(n2)-> iterate through each node in order
 space -> O(n) storing the total unique bst
 
+
+Temporal Locality means that a 
+instruction which is recently executed have high chances of 
+execution again. So the instruction is kept in cache memory such that
+ it can be fetched easily and takes no time in searching for the same instruction.
 '''
 class Solution:
     def numTrees(self, n):
-        
         numberTrees = [1] * (n + 1)
         for nodes in range(2, n + 1):
             total= 0
