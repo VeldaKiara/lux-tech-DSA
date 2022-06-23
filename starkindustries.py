@@ -11,6 +11,8 @@ check for profit: -
                  due to low price, left= lowest/minimum
                  increment the right 
 return max profit
+Time Complexity: O(n)
+Space Complexity: O(1)
 '''
 def maxProfit(prices):
     left, right = 0, 1 

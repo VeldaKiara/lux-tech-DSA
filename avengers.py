@@ -10,7 +10,10 @@ check the right subtree, values on the right are > than node val, right boundary
 then combine checks set to true, -> true vice versa
 return func with root and -inf set to left values can be anything
 
+Time Complexity: O(n)
+Space Complexity: O(nm), n-parent nodes, m-child nodes
 """
+
 class Solution:
     def isValidBST(self, root):
         
