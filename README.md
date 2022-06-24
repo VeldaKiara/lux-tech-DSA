@@ -27,6 +27,9 @@ https://leetcode.com/problems/top-k-frequent-elements/
 Spiderman
 https://leetcode.com/problems/reverse-linked-list/
 
+### Sorting
+
+
 ## Resources Used For this Presentation
 
 https://www.geeksforgeeks.org/why-data-structures-and-algorithms-are-important-to-learn/
@@ -40,6 +43,10 @@ https://www.geeksforgeeks.org/time-complexity-and-space-complexity/
 https://www.geeksforgeeks.org/analysis-of-algorithms-set-3asymptotic-notations/
 
 https://www.geeksforgeeks.org/heap-data-structure/
+
+https://www.geeksforgeeks.org/data-structures/linked-list/
+
+https://www.geeksforgeeks.org check-for-balanced-parentheses-in-an-expression-o1-space-on2-time-complexity/
 
 ### String Manipulation
 
