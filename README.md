@@ -23,6 +23,10 @@ https://leetcode.com/problems/longest-palindromic-substring
 Iron man suits
 https://leetcode.com/problems/top-k-frequent-elements/
 
+### LinkedList
+Spiderman
+https://leetcode.com/problems/reverse-linked-list/
+
 ## Resources Used For this Presentation
 
 https://www.geeksforgeeks.org/why-data-structures-and-algorithms-are-important-to-learn/
